@@ -8,7 +8,7 @@ I'm a second year CSIT(IET) student and a full-stack web developer. Love to writ
 
 * 🌍  I'm based in **India**.
 * ✉️  You can contact me at [amit.engg9897@gmail.com](mailto:amit.engg9897@gmail.com)
-* 
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Vivek+Kumar.;Love+to+write+code+and+create+websites.;Think.+Act.+Evaluate.+Improve.)
 
 ### Skills
