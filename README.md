@@ -4,7 +4,7 @@ Hi 👋 My name is Amit Kumar
 Full-Stack Web Developer.
 ------------------------
 
-I'm a second year CSIT(IET) student and a full-stack web developer. Love to write code & improve my skills.
+I'm a second year CSIT(IET) student and a full-stack web developer.
 
 * 🌍  I'm based in **India**.
 * ✉️  You can contact me at [amit.engg9897@gmail.com](mailto:amit.engg9897@gmail.com)
