@@ -47,3 +47,5 @@ I'm a second year CSIT(IET) student and a full-stack web developer.
 
 
 ![](https://komarev.com/ghpvc/?username=deveamit)
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
