@@ -47,3 +47,7 @@ I'm a second year CSIT(IET) student and a full-stack web developer.
 
 
 ![](https://komarev.com/ghpvc/?username=deveamit)
+
+
+<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg" alt="svg" style="max-width: 100%;">
+<br/>
