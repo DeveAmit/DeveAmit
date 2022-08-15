@@ -47,3 +47,8 @@ I'm a second year CSIT(IET) student and a full-stack web developer.
 
 
 ![](https://komarev.com/ghpvc/?username=deveamit)
+
+
+dist/github-snake.svg
+dist/github-snake-dark.svg?palette=github-dark
+dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
